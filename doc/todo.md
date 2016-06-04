@@ -10,7 +10,7 @@
 ### Jami and Ville-Matti:
 
 * Get familiar with the technologies we'll use -> tutorials!
-	* Step by step plan
+	* Step by step plan, as parallel as possible
 * Figure out some way to turn that MIB file into a 3D model
 * Figure out how to combine that 3D model with position data
 	* Change of position + I am here button?
