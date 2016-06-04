@@ -1,0 +1,19 @@
+The great step by step plan:
+Oletetaan BIMistä saadaan unityyn 3d malli.
+* Valitaan aloituskohta.
+* Kamera aloituskohtaan
+* Compilataan
+	1: Toimimaan HTC Viven kanssa
+	2: Hololenssin kanssa
+
+1: HTC Vive
+* Liikkuminen oikeassa maailmassa -> liikkuminen 3d mallin sisällä.
+* Näkyykö kamerakuvaa? -> Overlay "todellisuuden" päälle?
+* 3, kamera + laser etäisyysmittarit.
+
+2: Hololens
+* Overlay todellisuuden päälle
+* 3, syvyyskameralla.
+
+3: Sijainnin selvittäminen syvyysdatan avulla:
+* Näytä, että mahdollista.
