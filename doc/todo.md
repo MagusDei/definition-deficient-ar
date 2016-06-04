@@ -1,15 +1,16 @@
 ### Subprojects
 
-* Learn to use MIB files
-* Learn to use HoloLens (alternate vr/smart phone?)
+* Learn to use BIM files
+* Learn to use HTC Vibe (and hololens?)
 * Learn to use IndoorAtlas, and figure out whether or not it is needed
-* HoloLens MIB file integration - XML to a pretty 3D model thingy
+* Vibe MIB file integration - text file to a pretty 3D model thingy
 * IndoorAtlas MIB file integration - Combine position data with the 3D model
 * Add helpful data to our beautiful new augmented reality
 
 ### Jami and Ville-Matti:
 
-* Get familiar with the technologies we'll use
+* Get familiar with the technologies we'll use -> tutorials!
+	* Step by step plan
 * Figure out some way to turn that MIB file into a 3D model
 * Figure out how to combine that 3D model with position data
 	* Change of position + I am here button?
